@@ -2,7 +2,7 @@ name: Update Frieren goods catalog
 
 on:
   schedule:
-    - cron: "17 18 * * *"
+    - cron: "19 18 * * *"
   workflow_dispatch:
 
 permissions:
