@@ -1,6 +1,6 @@
 name: Update Frieren goods catalog
 
-on:
+'on':
   schedule:
     - cron: "17 18 * * *"
   workflow_dispatch:
