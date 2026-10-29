@@ -1,0 +1,27 @@
+{
+  "sources": [
+    {
+      "name": "葬送のフリーレン アニメ公式 GOODS",
+      "url": "https://frieren-anime.jp/goods/",
+      "kind": "listing",
+      "official": true
+    }
+  ],
+  "allowed_maker_domains": [
+    "goodsmile.com",
+    "goodsmile.info",
+    "segaplaza.jp",
+    "taito.co.jp",
+    "bandai.co.jp",
+    "gashapon.jp",
+    "bsp-prize.jp",
+    "movic.jp",
+    "animate-onlineshop.jp",
+    "amnibus.com",
+    "cospa.com",
+    "eeo.today",
+    "nijigencospa.com",
+    "k-books.co.jp"
+  ],
+  "notes": "Only add official brand/product URLs or pages whose terms permit automated access. Do not add marketplace listings."
+}
